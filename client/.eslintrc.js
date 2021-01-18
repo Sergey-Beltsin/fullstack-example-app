@@ -4,6 +4,7 @@ module.exports = {
     es2021: true,
   },
   extends: [
+    'eslint:recommended',
     'plugin:react/recommended',
     'airbnb',
   ],
@@ -17,8 +18,27 @@ module.exports = {
   },
   plugins: [
     'react',
+    'react-hooks',
     '@typescript-eslint',
+    'prettier',
   ],
   rules: {
+    'import/prefer-default-export': 0,
+    'react/react-in-jsx-scope': 0,
+    'react/prop-types': 0,
+    'no-use-before-define': [
+      'error',
+      {
+        variables: false,
+      },
+    ],
+    'react/jsx-filename-extension': 0,
+    'import/extensions': 0,
+    '@typescript-eslint/no-unused-vars': [
+      2,
+      {
+        args: 'none',
+      },
+    ],
   },
 };
