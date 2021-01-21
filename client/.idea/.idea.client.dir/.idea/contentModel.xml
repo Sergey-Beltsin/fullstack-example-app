@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/@types/prop-types" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/@types/react" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/@types/react-dom" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/react-dom/17.0.0/node_modules/csstype" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/styled-components/5.1.7/node_modules/@types/hoist-non-react-statics" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/styled-components/5.1.7/node_modules/@types/styled-components" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/styled-components/5.1.7/node_modules/hoist-non-react-statics" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/javascript/typings/styled-components/5.1.7/node_modules/react-is" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_.19.02" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="node_modules/@babel/parser" t="IncludeRecursive" />
+      <e p="node_modules/@babel/types" t="IncludeRecursive" />
+      <e p="node_modules/@hapi/accept" t="IncludeRecursive" />
+      <e p="node_modules/@hapi/boom" t="IncludeRecursive" />
+      <e p="node_modules/@hapi/hoek" t="IncludeRecursive" />
+      <e p="node_modules/@next/env" t="IncludeRecursive" />
+      <e p="node_modules/@opentelemetry/api" t="IncludeRecursive" />
+      <e p="node_modules/@opentelemetry/context-base" t="IncludeRecursive" />
+      <e p="node_modules/@types" t="IncludeRecursive">
+        <e p="node" t="IncludeRecursive" />
+        <e p="prop-types" t="IncludeRecursive" />
+        <e p="react" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules/@typescript-eslint/eslint-plugin" t="IncludeRecursive" />
+      <e p="node_modules/@typescript-eslint/experimental-utils" t="IncludeRecursive" />
+      <e p="node_modules/@typescript-eslint/parser" t="IncludeRecursive" />
+      <e p="node_modules/@typescript-eslint/scope-manager" t="IncludeRecursive" />
+      <e p="node_modules/@typescript-eslint/types" t="IncludeRecursive" />
+      <e p="node_modules/@typescript-eslint/typescript-estree" t="IncludeRecursive" />
+      <e p="node_modules/@typescript-eslint/visitor-keys" t="IncludeRecursive" />
+      <e p="node_modules/acorn" t="IncludeRecursive" />
+      <e p="node_modules/ajv" t="IncludeRecursive" />
+      <e p="node_modules/ajv-keywords" t="IncludeRecursive" />
+      <e p="node_modules/ansi-regex" t="IncludeRecursive" />
+      <e p="node_modules/array-union" t="IncludeRecursive" />
+      <e p="node_modules/ast-types" t="IncludeRecursive" />
+      <e p="node_modules/axios" t="IncludeRecursive" />
+      <e p="node_modules/base64-js" t="IncludeRecursive" />
+      <e p="node_modules/buffer" t="IncludeRecursive" />
+      <e p="node_modules/chalk" t="IncludeRecursive" />
+      <e p="node_modules/colorette" t="IncludeRecursive" />
+      <e p="node_modules/commander" t="IncludeRecursive" />
+      <e p="node_modules/csstype" t="IncludeRecursive" />
+      <e p="node_modules/dom-serializer" t="IncludeRecursive" />
+      <e p="node_modules/domelementtype" t="IncludeRecursive" />
+      <e p="node_modules/domhandler" t="IncludeRecursive" />
+      <e p="node_modules/domutils" t="IncludeRecursive" />
+      <e p="node_modules/effector" t="IncludeRecursive" />
+      <e p="node_modules/effector-react" t="IncludeRecursive" />
+      <e p="node_modules/entities" t="IncludeRecursive" />
+      <e p="node_modules/eslint-config-airbnb" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-import" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-prettier" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-react" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-react-hooks" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-typescript" t="IncludeRecursive" />
+      <e p="node_modules/fast-deep-equal" t="IncludeRecursive" />
+      <e p="node_modules/fast-json-stable-stringify" t="IncludeRecursive" />
+      <e p="node_modules/find-up" t="IncludeRecursive" />
+      <e p="node_modules/globby" t="IncludeRecursive" />
+      <e p="node_modules/htmlparser2" t="IncludeRecursive" />
+      <e p="node_modules/iconv-lite" t="IncludeRecursive" />
+      <e p="node_modules/ieee754" t="IncludeRecursive" />
+      <e p="node_modules/ignore" t="IncludeRecursive" />
+      <e p="node_modules/import-fresh" t="IncludeRecursive" />
+      <e p="node_modules/jest-worker" t="IncludeRecursive" />
+      <e p="node_modules/locate-path" t="IncludeRecursive" />
+      <e p="node_modules/make-dir" t="IncludeRecursive" />
+      <e p="node_modules/nanoid" t="IncludeRecursive" />
+      <e p="node_modules/native-url" t="IncludeRecursive" />
+      <e p="node_modules/next" t="IncludeRecursive" />
+      <e p="node_modules/node-html-parser" t="IncludeRecursive" />
+      <e p="node_modules/p-limit" t="IncludeRecursive" />
+      <e p="node_modules/p-locate" t="IncludeRecursive" />
+      <e p="node_modules/path-exists" t="IncludeRecursive" />
+      <e p="node_modules/path-type" t="IncludeRecursive" />
+      <e p="node_modules/postcss" t="IncludeRecursive" />
+      <e p="node_modules/raw-body" t="IncludeRecursive" />
+      <e p="node_modules/react" t="IncludeRecursive" />
+      <e p="node_modules/react-dom" t="IncludeRecursive" />
+      <e p="node_modules/safe-buffer" t="IncludeRecursive" />
+      <e p="node_modules/schema-utils" t="IncludeRecursive" />
+      <e p="node_modules/slash" t="IncludeRecursive" />
+      <e p="node_modules/strip-ansi" t="IncludeRecursive" />
+      <e p="node_modules/styled-components" t="IncludeRecursive" />
+      <e p="node_modules/terser" t="IncludeRecursive" />
+      <e p="node_modules/tslib" t="IncludeRecursive" />
+      <e p="node_modules/tsutils" t="IncludeRecursive" />
+      <e p="node_modules/uri-js" t="IncludeRecursive" />
+      <e p="node_modules/yocto-queue" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
