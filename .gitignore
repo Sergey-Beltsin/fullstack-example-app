@@ -2,6 +2,8 @@
 
 # IDE
 /.idea
+/client/.idea
+/backend/.idea
 
 # dependencies
 /client/node_modules
