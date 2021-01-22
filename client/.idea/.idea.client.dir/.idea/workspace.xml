@@ -4,27 +4,115 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="627deab8-2a8f-4e95-abe6-4cd087072f83" name="Default Changelist" comment="" />
+    <list default="true" id="627deab8-2a8f-4e95-abe6-4cd087072f83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../backend/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/obj/Debug/net5.0/backend.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/obj/Debug/net5.0/backend.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/obj/Debug/net5.0/backend.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/obj/Debug/net5.0/backend.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/obj/Debug/net5.0/backend.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/atoms/todo-actions/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/common/components/icons/CheckIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/common/components/icons/DeleteIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/config/axios/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/.idea/.idea.backend.dir/.idea/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/.idea/.idea.backend.dir/.idea/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/Controllers/TodosController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/Controllers/TodosController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/bin/Debug/net5.0/Todos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/bin/Debug/net5.0/Todos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/bin/Debug/net5.0/Todos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/bin/Debug/net5.0/Todos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/bin/Debug/net5.0/ref/Todos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/bin/Debug/net5.0/ref/Todos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/Todos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/ref/Todos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/Debug/net5.0/ref/Todos.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/Todos/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/Todos/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.client.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.client.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.client.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.client.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/atoms/button/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/atoms/button/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/atoms/input/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/atoms/input/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/atoms/todo-item/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/atoms/todo-item/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UI/molecules/todos/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/molecules/todos/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/todos-screen/containers/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/todos-screen/containers/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/todos-screen/store-types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/todos-screen/store-types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/todos-screen/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/todos-screen/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/constants/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/common/constants/theme.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/lib/config/axios/index.ts" />
+      <option value="$PROJECT_DIR$/src/features/todos-screen/store-types.ts" />
+      <option value="$PROJECT_DIR$/.eslintrc.js" />
+      <option value="$PROJECT_DIR$/pages/index.tsx" />
+      <option value="$PROJECT_DIR$/src/lib/common/components/icons/DeleteIcon.tsx" />
+      <option value="$PROJECT_DIR$/src/lib/common/components/icons/CheckIcon.tsx" />
+      <option value="$PROJECT_DIR$/src/UI/atoms/button/index.tsx" />
+      <option value="$PROJECT_DIR$/src/UI/atoms/input/index.tsx" />
+      <option value="$PROJECT_DIR$/src/UI/molecules/todos/index.tsx" />
+      <option value="$PROJECT_DIR$/src/UI/atoms/todo-actions/index.tsx" />
+      <option value="$PROJECT_DIR$/src/UI/atoms/todo-item/index.tsx" />
+      <option value="$PROJECT_DIR$/src/features/todos-screen/containers/index.tsx" />
+      <option value="$PROJECT_DIR$/src/features/todos-screen/store.ts" />
+    </changedPaths>
+  </component>
   <component name="ProjectId" id="1nOCPyOkCjm94MtJwrSaV21qLaT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,13 +125,17 @@
       <updated>1611251730402</updated>
       <workItem from="1611251741925" duration="63000" />
       <workItem from="1611251909035" duration="24000" />
+      <workItem from="1611251953391" duration="2857000" />
+      <workItem from="1611255791646" duration="1102000" />
+      <workItem from="1611308578150" duration="2110000" />
+      <workItem from="1611312403247" duration="2053000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -58,6 +150,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

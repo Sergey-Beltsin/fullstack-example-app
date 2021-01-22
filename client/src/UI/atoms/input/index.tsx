@@ -1,7 +1,7 @@
 import { Dispatch, FC } from 'react';
 import styled from 'styled-components';
 
-import { border } from '../../../lib/constants/theme';
+import { border } from '../../../lib/common/constants/theme';
 
 interface IProps {
   value: string;

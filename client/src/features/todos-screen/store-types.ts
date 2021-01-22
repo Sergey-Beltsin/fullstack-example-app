@@ -1,5 +1,7 @@
 export interface ITodoItem {
-  text: string;
+  title: string;
+  id: string;
+  isActive: boolean;
 }
 
 export interface ITodosStore {

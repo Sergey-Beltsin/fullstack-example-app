@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import styled from 'styled-components';
 
-import { primary, white } from '../../../lib/constants/theme';
+import { primary, white } from '../../../lib/common/constants/theme';
 
 interface IProps {
   onClick: () => void;

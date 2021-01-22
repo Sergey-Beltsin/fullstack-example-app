@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -34,7 +35,7 @@ namespace Todos.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<TodoEntity>> GetTodoEntity(long id)
+        public async Task<ActionResult<TodoEntity>> GetTodoEntity(Guid id)
         {
             var todoItem = await _context.Todos.FindAsync(id);
 
@@ -45,5 +46,53 @@ namespace Todos.Controllers
 
             return todoItem;
         }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteTodoEntity(Guid id)
+        {
+            var todoItem = await _context.Todos.FindAsync(id);
+            if (todoItem == null)
+            {
+                return NotFound();
+            }
+
+            _context.Todos.Remove(todoItem);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutTodoEntity(Guid id, TodoEntity todoEntity)
+        {
+            if (id != todoEntity.Id)
+            {
+                return BadRequest();
+            }
+
+            _context.Entry(todoEntity).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!TodoEntityExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+        [NonAction]
+        public bool TodoEntityExists(Guid id) =>
+            _context.Todos.Any(e => e.Id == id);
     }
 }
